@@ -1,15 +1,12 @@
 PHP for Tokaido
 =====
 
-This container 
-
-
 Each major PHP version has several sub-versions inside Tokaido, for example
-PHP 7.1 has the following releases available:
+PHP 7.2 has the following releases available:
 
-- php71-base: Contains a standard PHP 7.1 image
-- - php71-fpm: Adds FPM to the PHP 7.1 image
-- - - php71-fpm-xdebug: Adds Xdebug to the FPM image
+- php71-base: Contains a standard PHP 7.2 image
+- - php71-fpm: Adds FPM to the PHP 7.2 image
+- - php71-fpm-xdebug: Adds Xdebug to the FPM image
 - - php71-xdebug: Adds Xdebug to the base image (but doesn't include FPM)
 
 
